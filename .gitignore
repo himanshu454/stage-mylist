@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Docker
+.dockerignore
