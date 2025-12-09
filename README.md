@@ -29,7 +29,7 @@ The easiest way to run the entire stack:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/himanshu454/stage-mylist.git
 cd stage-mylist
 
 # Start all services (app, MongoDB, Redis)
